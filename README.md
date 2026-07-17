@@ -30,7 +30,7 @@ U okviru ovog diplomskog rada nije razvijen zaseban programski kod jer je rad is
 
 Repozitorij zato sadrži diplomski rad, prezentaciju za obranu, anketni upitnik i podatke prikupljene istraživanjem.
 
-## Napomena o podacima
+## Podaci istraživanja
 
 Podaci iz ankete prikazani su u svrhu prikaza rezultata diplomskog rada.
 
