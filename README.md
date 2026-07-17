@@ -4,7 +4,7 @@ Diplomski rad — Fakultet informatike u Puli (FIPU)
 
 Ovaj repozitorij izrađen je za potrebe diplomskog rada pod naslovom **"Primjena IoT tehnologija u srednjoškolskom obrazovanju: analiza stavova učenika"**.
 
-Autorica: Magdalena Putanec-Cetinić  
+Autorica: Magdalena Putanec Cetinić  
 Studijski program: Informatika – nastavnički smjer  
 Kolegij: Internet stvari  
 Mentor: doc. dr. sc. Sandi Baressi Šegota  
@@ -36,7 +36,7 @@ Podaci iz ankete prikazani su u svrhu prikaza rezultata diplomskog rada.
 
 ## Autorica
 
-Magdalena Putanec-Cetinić  
+Magdalena Putanec Cetinić  
 Sveučilište Jurja Dobrile u Puli  
 Fakultet informatike u Puli  
 2026.
