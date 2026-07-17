@@ -24,7 +24,7 @@ Repozitorij sadrži:
 - `anketni_upitnik.pdf` – anketni upitnik korišten u istraživanju
 - `rezultati_ankete.xlsx` – rezultati anketnog istraživanja
 
-## Napomena o programskom kodu
+## Programski kod
 
 U okviru ovog diplomskog rada nije razvijen zaseban programski kod jer je rad istraživačko-anketnog karaktera.
 
